@@ -7,7 +7,7 @@ public class Mali {
 	
 	System.out.println("1 from remote repo"); 
 	 
-	 
+	System.out.println("1 from local ayyildiz"); 
 	 
 }
 }
